@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS books(
+    id BIGINT PRIMARY KEY,
+    title text NOT NULL
+);
